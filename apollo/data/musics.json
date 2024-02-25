@@ -1,0 +1,502 @@
+[
+  {
+    "ranking":"1",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11415997.jpg?v=1707818645410&amp;size=80",
+    "title": "밤양갱", "artist": "비비 (BIBI)"
+  }
+,{
+    "ranking":"2",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11404142.jpg?v=1708419856767&amp;size=80",
+    "title": "Love wins all", "artist": "아이유"
+  }
+,{
+    "ranking":"3",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11391902.jpg?v=1706952264860&amp;size=80",
+    "title": "첫 만남은 계획대로 되지 않아", "artist": "TWS (투어스)"
+  }
+,{
+    "ranking":"4",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11372896.jpg?v=1706952255449&amp;size=80",
+    "title": "To. X", "artist": "태연 (TAEYEON)"
+  }
+,{
+    "ranking":"5",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11376816.jpg?v=1706952256383&amp;size=80",
+    "title": "비의 랩소디", "artist": "임재현"
+  }
+,{
+    "ranking":"6",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11404142.jpg?v=1708419856767&amp;size=80",
+    "title": "홀씨", "artist": "아이유"
+  }
+,{
+    "ranking":"7",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11394065.jpg?v=1706952266196&amp;size=80",
+    "title": "Love 119", "artist": "RIIZE"
+  }
+,{
+    "ranking":"8",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11407156.jpg?v=1708333664729&amp;size=80",
+    "title": "EASY", "artist": "LE SSERAFIM (르세라핌)"
+  }
+,{
+    "ranking":"9",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11352904.jpg?v=1706952251454&amp;size=80",
+    "title": "Perfect Night", "artist": "LE SSERAFIM (르세라핌)"
+  }
+,{
+    "ranking":"10",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11382987.jpg?v=1706952258614&amp;size=80",
+    "title": "에피소드", "artist": "이무진"
+  }
+,{
+    "ranking":"11",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11404142.jpg?v=1708419856767&amp;size=80",
+    "title": "Shopper", "artist": "아이유"
+  }
+,{
+    "ranking":"12",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11305759.jpg?v=1706952246992&amp;size=80",
+    "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))", "artist": "너드커넥션 (Nerd Connection)"
+  }
+,{
+    "ranking":"13",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11362544.jpg?v=1706952253708&amp;size=80",
+    "title": "Drama", "artist": "aespa"
+  }
+,{
+    "ranking":"14",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11227533.jpg?v=1706952243620&amp;size=80",
+    "title": "헤어지자 말해요", "artist": "박재정"
+  }
+,{
+    "ranking":"15",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10735654.jpg?v=1706952235841&amp;size=80",
+    "title": "사랑은 늘 도망가", "artist": "임영웅"
+  }
+,{
+    "ranking":"16",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10821699.jpg?v=1706952236525&amp;size=80",
+    "title": "인사", "artist": "범진"
+  }
+,{
+    "ranking":"17",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11402655.jpg?v=1706952285766&amp;size=80",
+    "title": "Super Lady", "artist": "(여자)아이들"
+  }
+,{
+    "ranking":"18",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11402655.jpg?v=1706952285766&amp;size=80",
+    "title": "Wife", "artist": "(여자)아이들"
+  }
+,{
+    "ranking":"19",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11385577.jpg?v=1706952259531&amp;size=80",
+    "title": "꿈", "artist": "태연 (TAEYEON)"
+  }
+,{
+    "ranking":"20",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11286070.jpg?v=1706952246266&amp;size=80",
+    "title": "Seven (feat. Latto) - Clean Ver.", "artist": "정국"
+  }
+,{
+    "ranking":"21",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11211297.jpg?v=1706952242914&amp;size=80",
+    "title": "I AM", "artist": "IVE (아이브)"
+  }
+,{
+    "ranking":"22",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11258233.jpg?v=1706952245062&amp;size=80",
+    "title": "모래 알갱이", "artist": "임영웅"
+  }
+,{
+    "ranking":"23",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11356868.jpg?v=1706952252358&amp;size=80",
+    "title": "MANIAC", "artist": "VIVIZ (비비지)"
+  }
+,{
+    "ranking":"24",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10923444.jpg?v=1706952237703&amp;size=80",
+    "title": "우리들의 블루스", "artist": "임영웅"
+  }
+,{
+    "ranking":"25",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11402655.jpg?v=1706952285766&amp;size=80",
+    "title": "나는 아픈 건 딱 질색이니까", "artist": "(여자)아이들"
+  }
+,{
+    "ranking":"26",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11309832.jpg?v=1706952247531&amp;size=80",
+    "title": "Get A Guitar", "artist": "RIIZE"
+  }
+,{
+    "ranking":"27",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11340391.jpg?v=1706952249528&amp;size=80",
+    "title": "Do or Die", "artist": "임영웅"
+  }
+,{
+    "ranking":"28",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10923444.jpg?v=1706952237703&amp;size=80",
+    "title": "다시 만날 수 있을까", "artist": "임영웅"
+  }
+,{
+    "ranking":"29",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/2232505.jpg?v=1706952325425&amp;size=80",
+    "title": "너의 모든 순간", "artist": "성시경"
+  }
+,{
+    "ranking":"30",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11309190.jpg?v=1706952247353&amp;size=80",
+    "title": "Love Lee", "artist": "AKMU (악뮤)"
+  }
+,{
+    "ranking":"31",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11333459.jpg?v=1706952248839&amp;size=80",
+    "title": "Baddie", "artist": "IVE (아이브)"
+  }
+,{
+    "ranking":"32",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10412319.jpg?v=1706952233495&amp;size=80",
+    "title": "이제 나만 믿어요", "artist": "임영웅"
+  }
+,{
+    "ranking":"33",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10923444.jpg?v=1706952237703&amp;size=80",
+    "title": "무지개", "artist": "임영웅"
+  }
+,{
+    "ranking":"34",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10036099.jpg?v=1706952231104&amp;size=80",
+    "title": "예뻤어", "artist": "DAY6 (데이식스)"
+  }
+,{
+    "ranking":"35",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11285867.jpg?v=1706952245945&amp;size=80",
+    "title": "사막에서 꽃을 피우듯", "artist": "우디 (Woody)"
+  }
+,{
+    "ranking":"36",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11102375.jpg?v=1706952240175&amp;size=80",
+    "title": "London Boy", "artist": "임영웅"
+  }
+,{
+    "ranking":"37",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10923444.jpg?v=1706952237703&amp;size=80",
+    "title": "아버지", "artist": "임영웅"
+  }
+,{
+    "ranking":"38",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11339556.jpg?v=1706952249348&amp;size=80",
+    "title": "You &amp; Me", "artist": "제니 (JENNIE)"
+  }
+,{
+    "ranking":"39",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11240232.jpg?v=1706952244533&amp;size=80",
+    "title": "퀸카 (Queencard)", "artist": "(여자)아이들"
+  }
+,{
+    "ranking":"40",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11281456.jpg?v=1706952245756&amp;size=80",
+    "title": "Super Shy", "artist": "NewJeans"
+  }
+,{
+    "ranking":"41",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11102375.jpg?v=1706952240175&amp;size=80",
+    "title": "Polaroid", "artist": "임영웅"
+  }
+,{
+    "ranking":"42",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11280645.jpg?v=1706952245561&amp;size=80",
+    "title": "잘 지내자, 우리 (여름날 우리 X 로이킴)", "artist": "로이킴"
+  }
+,{
+    "ranking":"43",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11404142.jpg?v=1708419856767&amp;size=80",
+    "title": "Shh.. (Feat. 혜인(HYEIN), 조원선 &amp; Special Narr. 패티김)", "artist": "아이유"
+  }
+,{
+    "ranking":"44",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10923444.jpg?v=1706952237703&amp;size=80",
+    "title": "인생찬가", "artist": "임영웅"
+  }
+,{
+    "ranking":"45",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10307346.jpg?v=1706952232579&amp;size=80",
+    "title": "한 페이지가 될 수 있게", "artist": "DAY6 (데이식스)"
+  }
+,{
+    "ranking":"46",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11404142.jpg?v=1708419856767&amp;size=80",
+    "title": "관객이 될게 (I stan U)", "artist": "아이유"
+  }
+,{
+    "ranking":"47",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11011565.jpg?v=1706952238851&amp;size=80",
+    "title": "Hype Boy", "artist": "NewJeans"
+  }
+,{
+    "ranking":"48",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11309190.jpg?v=1706952247353&amp;size=80",
+    "title": "후라이의 꿈", "artist": "AKMU (악뮤)"
+  }
+,{
+    "ranking":"49",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11127145.jpg?v=1706952240377&amp;size=80",
+    "title": "Ditto", "artist": "NewJeans"
+  }
+,{
+    "ranking":"50",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10923444.jpg?v=1706952237703&amp;size=80",
+    "title": "A bientot", "artist": "임영웅"
+  }
+,{
+    "ranking":"51",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10871162.jpg?v=1706952237086&amp;size=80",
+    "title": "사랑인가 봐", "artist": "멜로망스"
+  }
+,{
+    "ranking":"52",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11281456.jpg?v=1706952245756&amp;size=80",
+    "title": "ETA", "artist": "NewJeans"
+  }
+,{
+    "ranking":"53",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10903868.jpg?v=1706952237282&amp;size=80",
+    "title": "사건의 지평선", "artist": "윤하 (YOUNHA)"
+  }
+,{
+    "ranking":"54",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11398907.jpg?v=1706952275188&amp;size=80",
+    "title": "기억해줘요 내 모든 날과 그때를", "artist": "화곡동 청개구리"
+  }
+,{
+    "ranking":"55",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11358100.jpg?v=1706952252728&amp;size=80",
+    "title": "Standing Next to You", "artist": "정국"
+  }
+,{
+    "ranking":"56",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10923444.jpg?v=1706952237703&amp;size=80",
+    "title": "연애편지", "artist": "임영웅"
+  }
+,{
+    "ranking":"57",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10331947.jpg?v=1706952232736&amp;size=80",
+    "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지", "artist": "AKMU (악뮤)"
+  }
+,{
+    "ranking":"58",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11421941.jpg?v=1708509702497&amp;size=80",
+    "title": "천상연", "artist": "이창섭"
+  }
+,{
+    "ranking":"59",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11180278.jpg?v=1706952241684&amp;size=80",
+    "title": "심(心)", "artist": "DK(디셈버)"
+  }
+,{
+    "ranking":"60",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11215072.jpg?v=1706952243244&amp;size=80",
+    "title": "사랑하지 않아서 그랬어", "artist": "임한별"
+  }
+,{
+    "ranking":"61",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11382496.jpg?v=1706952258434&amp;size=80",
+    "title": "사랑할 수밖에", "artist": "볼빨간사춘기"
+  }
+,{
+    "ranking":"62",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11154218.jpg?v=1706952240751&amp;size=80",
+    "title": "그대가 내 안에 박혔다(그내박)", "artist": "순순희(기태)"
+  }
+,{
+    "ranking":"63",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11236264.jpg?v=1706952244336&amp;size=80",
+    "title": "Spicy", "artist": "aespa"
+  }
+,{
+    "ranking":"64",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11400015.jpg?v=1706952278294&amp;size=80",
+    "title": "Yes or No (Feat. 허윤진 of LE SSERAFIM, Crush)", "artist": "그루비룸 (GroovyRoom)"
+  }
+,{
+    "ranking":"65",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/2219671.jpg?v=1706952325265&amp;size=80",
+    "title": "첫 눈", "artist": "EXO"
+  }
+,{
+    "ranking":"66",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10816959.jpg?v=1706952236377&amp;size=80",
+    "title": "취중고백", "artist": "김민석"
+  }
+,{
+    "ranking":"67",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11323044.jpg?v=1706952248426&amp;size=80",
+    "title": "별 떨어진다 (I Do)", "artist": "디오 (D.O.)"
+  }
+,{
+    "ranking":"68",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10149492.jpg?v=1706952231638&amp;size=80",
+    "title": "모든 날, 모든 순간 (Every day, Every Moment)", "artist": "폴킴"
+  }
+,{
+    "ranking":"69",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10844485.jpg?v=1706952236716&amp;size=80",
+    "title": "I Don't Think That I Like Her", "artist": "Charlie Puth"
+  }
+,{
+    "ranking":"70",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10909179.jpg?v=1706952237493&amp;size=80",
+    "title": "LOVE DIVE", "artist": "IVE (아이브)"
+  }
+,{
+    "ranking":"71",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11211297.jpg?v=1706952242914&amp;size=80",
+    "title": "Kitsch", "artist": "IVE (아이브)"
+  }
+,{
+    "ranking":"72",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11234678.jpg?v=1706952244137&amp;size=80",
+    "title": "이브, 프시케 그리고 푸른 수염의 아내", "artist": "LE SSERAFIM (르세라핌)"
+  }
+,{
+    "ranking":"73",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10479150.jpg?v=1706952233872&amp;size=80",
+    "title": "Dynamite", "artist": "방탄소년단"
+  }
+,{
+    "ranking":"74",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10037969.jpg?v=1706952231279&amp;size=80",
+    "title": "봄날", "artist": "방탄소년단"
+  }
+,{
+    "ranking":"75",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10260858.jpg?v=1706952232413&amp;size=80",
+    "title": "주저하는 연인들을 위해", "artist": "잔나비"
+  }
+,{
+    "ranking":"76",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11242411.jpg?v=1706952244728&amp;size=80",
+    "title": "사랑..그게 뭔데", "artist": "지아"
+  }
+,{
+    "ranking":"77",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10975276.jpg?v=1706952238096&amp;size=80",
+    "title": "해요 (2022)", "artist": "#안녕"
+  }
+,{
+    "ranking":"78",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11345655.jpg?v=1706952250154&amp;size=80",
+    "title": "Discord", "artist": "QWER"
+  }
+,{
+    "ranking":"79",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11254858.jpg?v=1706952244876&amp;size=80",
+    "title": "Steal The Show (From “엘리멘탈”)", "artist": "Lauv"
+  }
+,{
+    "ranking":"80",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11229537.jpg?v=1706952243793&amp;size=80",
+    "title": "손오공", "artist": "세븐틴 (SEVENTEEN)"
+  }
+,{
+    "ranking":"81",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11034298.jpg?v=1706952239225&amp;size=80",
+    "title": "After LIKE", "artist": "IVE (아이브)"
+  }
+,{
+    "ranking":"82",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11376558.jpg?v=1706952256197&amp;size=80",
+    "title": "그대가 있는 곳, 언제 어디든", "artist": "로이킴"
+  }
+,{
+    "ranking":"83",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11233031.jpg?v=1706952243970&amp;size=80",
+    "title": "물론", "artist": "허각"
+  }
+,{
+    "ranking":"84",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10610525.jpg?v=1706952234440&amp;size=80",
+    "title": "다정히 내 이름을 부르면", "artist": "경서예지, 전건호"
+  }
+,{
+    "ranking":"85",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11127145.jpg?v=1706952240377&amp;size=80",
+    "title": "OMG", "artist": "NewJeans"
+  }
+,{
+    "ranking":"86",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11348980.jpg?v=1706952250872&amp;size=80",
+    "title": "음악의 신", "artist": "세븐틴 (SEVENTEEN)"
+  }
+,{
+    "ranking":"87",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/2336926.jpg?v=1706952325791&amp;size=80",
+    "title": "Dangerously", "artist": "Charlie Puth"
+  }
+,{
+    "ranking":"88",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11166539.jpg?v=1706952241114&amp;size=80",
+    "title": "파이팅 해야지 (Feat. 이영지)", "artist": "부석순 (SEVENTEEN)"
+  }
+,{
+    "ranking":"89",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11062828.jpg?v=1706952239841&amp;size=80",
+    "title": "그중에 그대를 만나", "artist": "김호중"
+  }
+,{
+    "ranking":"90",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11300771.jpg?v=1706952246627&amp;size=80",
+    "title": "Fast Forward", "artist": "전소미"
+  }
+,{
+    "ranking":"91",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11394425.jpg?v=1706952267887&amp;size=80",
+    "title": "I Love You", "artist": "안세하"
+  }
+,{
+    "ranking":"92",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11140018.jpg?v=1706952240575&amp;size=80",
+    "title": "건물 사이에 피어난 장미 (Rose Blossom)", "artist": "H1-KEY (하이키)"
+  }
+,{
+    "ranking":"93",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11234678.jpg?v=1706952244137&amp;size=80",
+    "title": "UNFORGIVEN (feat. Nile Rodgers)", "artist": "LE SSERAFIM (르세라핌)"
+  }
+,{
+    "ranking":"94",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/10612483.jpg?v=1706952234653&amp;size=80",
+    "title": "Butter", "artist": "방탄소년단"
+  }
+,{
+    "ranking":"95",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11315612.jpg?v=1706952248043&amp;size=80",
+    "title": "Smoke (Prod. Dynamicduo, Padi)", "artist": "다이나믹 듀오, 이영지"
+  }
+,{
+    "ranking":"96",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11381907.jpg?v=1706952258054&amp;size=80",
+    "title": "Merry PLLIstmas", "artist": "PLAVE"
+  }
+,{
+    "ranking":"97",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11011565.jpg?v=1706952238851&amp;size=80",
+    "title": "Attention", "artist": "NewJeans"
+  }
+,{
+    "ranking":"98",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11262009.jpg?v=1706952245376&amp;size=80",
+    "title": "나에게 그대만이", "artist": "탑현"
+  }
+,{
+    "ranking":"99",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11305820.jpg?v=1706952247161&amp;size=80",
+    "title": "Bubble", "artist": "STAYC(스테이씨)"
+  }
+,{
+    "ranking":"100",
+    "cover_img":"https://cdn.chartin.me/image/album/melon/11312709.jpg?v=1706952247728&amp;size=80",
+    "title": "여섯 번째 여름", "artist": "PLAVE"
+  }
+]

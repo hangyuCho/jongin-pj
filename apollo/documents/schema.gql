@@ -1,0 +1,52 @@
+schema {
+  query: Query
+}
+
+type Query {
+  users: [User!]!
+  musics(first: Int, after: Int): Response
+}
+
+type User {
+  name: String
+}
+
+type Music {
+  ranking: Int
+  cover_img: String
+  title: String
+  artist: String
+}
+
+type Edge {
+  cursor: String
+  node: Music
+}
+
+type PageInfo {
+  endCursor: String,
+  hasNextPage: Boolean
+}
+
+type Response {
+  edges: [Edge]
+  pageInfo: PageInfo
+}
+
+query MusicQuery($first: Int, $after: Int) {
+  musics(first: $first, after: $after) {
+    edges {
+      node {
+        artist
+        cover_img
+        ranking
+        title
+      }
+      cursor
+    }
+    pageInfo {
+      endCursor
+      hasNextPage
+    }
+  }
+}
